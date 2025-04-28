@@ -1,12 +1,5 @@
-```bash
-#!/usr/bin/zsh
-# -*- coding: utf-8 -*-
-
-printf "Hello world"
-```
-
 # Hi there, I'm José [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JoseXda.JoseXda)
-- 17 years, Brazil.
+- 19 years, Brazil.
 - Development student.
 - Interested in android development.
 
@@ -14,9 +7,8 @@ printf "Hello world"
 
 ## 💻  What you find on my Github
 - Currently I work on device tree are used in Android Custom Rom.
-- I am currently leading the project on:
-  <br>
-   **SM6225-Project [@SM6225-Project](https://github.com/SM6225-Project)**.
   
-[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseXda&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/JoseXda)
-[![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseXda&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/JoseXda)
+### ⚙️ GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=josexda&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=josexda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josexda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
